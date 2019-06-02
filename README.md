@@ -8,4 +8,4 @@ API usada: https://darksky.net
 
 icones usados: https://darkskyapp.github.io/skycons/
                                                                                                                        
-                                                                                                                       01/06/2019
+01/06/2019
