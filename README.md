@@ -4,7 +4,7 @@ Fiz ele utilizando a ajuda de alguns videos no youtube, só fiz algumas pequenas
 
 API usada: https://darksky.net
 
-"Proxy": https://cors-anywhere.herokuapp.com/
+"Proxy" pra rodar localmente: https://cors-anywhere.herokuapp.com/
 
 icones usados: https://darkskyapp.github.io/skycons/
                                                                                                                        
